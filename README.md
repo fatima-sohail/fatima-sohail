@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fatima-sohail
-- 👀 I’m interested in winter sports
+- 👀 I’m interested in travelling
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything related to front-end development
 - 📫 How to reach me by following me on GitHub
