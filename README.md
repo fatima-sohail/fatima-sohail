@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatima-sohail
 - 👀 I’m interested in travelling
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on anything related to front-end development
 - 📫 How to reach me by following me on GitHub
 
