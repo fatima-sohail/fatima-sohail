@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatima-sohail
 - 👀 I’m interested in travelling
-- 🌱 I’m currently learning Back-end development with Java
-- 💞️ I’m looking to collaborate on anything related to Java
+- 🌱 I’m currently learning project management
+- 💞️ I’m looking to collaborate on anything related to project management
 - 📫 How to reach me by following me on GitHub
 
 <!---
